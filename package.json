@@ -1,0 +1,11 @@
+{
+  "name": "free-fireship",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "@ffmpeg-installer/ffmpeg": "^1.1.0",
+    "clipboardy": "^3.0.0",
+    "jsdom": "^22.1.0",
+    "parse-md": "^3.0.3"
+  }
+}
